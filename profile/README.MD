@@ -27,9 +27,9 @@ If any content on this site is found to infringe upon copyrights or other legal 
 ---
 
 ## 联系方式 / Contact
-- GitHub Issues  
+- GitHub 组织邮箱  
 - scpslgame.cn 网站底部所公布的联系邮箱  
 如涉及侵权、版权或其他合规问题，请通过以上方式与我们联系。  
 
 For copyright, takedown, or other legal inquiries,  
-please contact us via **GitHub Issues** or the **contact email published in the footer of the scpslgame.cn website**.
+please contact us via **GitHub organization email** or the **contact email published in the footer of the scpslgame.cn website**.
